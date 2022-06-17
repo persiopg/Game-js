@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+}
+#memoria{
+    margin: auto;
+    max-width:30rem;
+}
+
+#memoria img{
+    margin-bottom: 20px;
+    border: thin solid black;
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+}
+#memoria #rodape{
+    text-align: center;
+}
